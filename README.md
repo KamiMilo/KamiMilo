@@ -1,8 +1,8 @@
 
-## oii aqui é a kamille ,seja bem vindo ao meu perfil🌠
+ <h1 align="center" >oii aqui é a kamille ,seja bem vindo ao meu perfil🌠</h1>
 ---
  <div align="center">
-<p align="center" font-family = "Playpen Sans" >atualmente estou cursando Desenvolvimento de Sistemas,acompanhe o meu progresso por aqui. <p/>
+<h3 align="center" font-family = "Playpen Sans" >atualmente estou cursando Desenvolvimento de Sistemas,acompanhe o meu progresso por aqui. <h2/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KamiMilo&show_icons=true&theme=radical" />
 </a>
