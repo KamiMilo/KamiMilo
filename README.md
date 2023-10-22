@@ -1,6 +1,11 @@
 
 ## oii aqui é a kamille ,seja bem vindo ao meu perfil🌠
 
+<style>
+ p{ font-family:Playpen-Sans;
+   color: purple;
+ }
+</style>
 ---
  <div align="center">
 <p>atualmente estou cursando Desenvolvimento de Sistemas,acompanhe o meu progresso por aqui. <p/>
