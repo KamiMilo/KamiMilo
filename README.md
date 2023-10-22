@@ -1,14 +1,8 @@
 
 ## oii aqui é a kamille ,seja bem vindo ao meu perfil🌠
-
-<style>
- p{ font-family:Playpen-Sans;
-   color: purple;
- }
-</style>
 ---
  <div align="center">
-<p>atualmente estou cursando Desenvolvimento de Sistemas,acompanhe o meu progresso por aqui. <p/>
+<p align="center" font-family = "Playpen Sans" >atualmente estou cursando Desenvolvimento de Sistemas,acompanhe o meu progresso por aqui. <p/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KamiMilo&show_icons=true&theme=radical" />
 </a>
